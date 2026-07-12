@@ -1,4 +1,4 @@
-<img src="portrait.jpg" align="right" width="150" alt="Daniel Wahnich">
+<img src="daniel-portrait.jpg" align="right" width="150" alt="Daniel Wahnich">
 
 # Daniel Wahnich
 
