@@ -8,12 +8,12 @@ I build [Aweb](https://aweblabs.ai), mission-control infrastructure for AI agent
 
 ## Selected work
 
-**[Sentinel](https://github.com/manfromnowhere143/sentinel)** ~ runtime safety monitor for a frozen end-to-end driving planner, developed over 50 pre-registered iterations. Independently reproduces the NeuroNCAP UniAD baseline (2.12 vs the published 1.84, corroborated by DMAD's independent rerun) and lifts the monitored benchmark score to 2.91 (95% CI on the delta [+0.605, +0.928]) at zero measured deployment cost. Every number regenerates from committed evidence. Paper: [preprint PDF](https://github.com/manfromnowhere143/sentinel/blob/master/docs/paper/paper.pdf), arXiv submission in progress.
+**[Sentinel](https://sentinel.danielwahnich.dev)** ~ runtime safety monitor for a frozen end-to-end driving planner, developed over 50 pre-registered iterations. Independently reproduces the NeuroNCAP UniAD baseline (2.12 vs the published 1.84, corroborated by DMAD's independent rerun) and lifts the monitored benchmark score to 2.91 (95% CI on the delta [+0.605, +0.928]) at zero measured deployment cost. Every number regenerates from committed evidence. Code and evidence: [GitHub](https://github.com/manfromnowhere143/sentinel). Paper: [preprint PDF](https://github.com/manfromnowhere143/sentinel/blob/master/docs/paper/paper.pdf), arXiv submission in progress.
 
-**[Telos](https://github.com/manfromnowhere143/telos)** ~ evidence protocol and benchmark harness for checking whether autonomous coding agents actually finished the task, not just the visible test. It runs on real SWE-bench_Verified trajectories and reward-hack fixes that can fool static verifiers and frontier reward models. The current evidence is bounded but clear: held-out execution, receipts, and repair loops are needed to recover real completion. No leaderboard or SOTA claim.
+**[Telos](https://telos.danielwahnich.dev)** ~ evidence protocol and benchmark harness for checking whether autonomous coding agents actually finished the task, not just the visible test. It runs on real SWE-bench_Verified trajectories and reward-hack fixes that can fool static verifiers and frontier reward models. The current evidence is bounded but clear: held-out execution, receipts, and repair loops are needed to recover real completion. Code and evidence: [GitHub](https://github.com/manfromnowhere143/telos). No leaderboard or broad ranking claim.
 
 **[PerceptionProof](https://github.com/manfromnowhere143/perceptionproof)** ~ do cheap label-free signals predict human-rated long-tail driving failure where open-loop metrics mis-rank closed-loop safety? A reproducible validity study with a published negative-results arc.
 
 ## Links
 
-[aweblabs.ai](https://aweblabs.ai) · [danielwahnich.dev](https://danielwahnich.dev) · [LinkedIn](https://www.linkedin.com/in/daniel-wahnich-048326412)
+[danielwahnich.dev](https://danielwahnich.dev) · [aweblabs.ai](https://aweblabs.ai) · [Sentinel](https://sentinel.danielwahnich.dev) · [Telos](https://telos.danielwahnich.dev) · [LinkedIn](https://www.linkedin.com/in/daniel-wahnich-048326412)
