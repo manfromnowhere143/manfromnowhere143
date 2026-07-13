@@ -1,6 +1,6 @@
-<img src="daniel-portrait.jpg" align="right" width="150" alt="Daniel Wahnich">
-
 # Daniel Wahnich
+
+<img src="daniel-portrait.jpg" align="right" width="150" alt="Daniel Wahnich">
 
 Founder, Aweb — independent researcher in runtime safety for autonomous systems.
 
@@ -17,4 +17,3 @@ I build [Aweb](https://aweblabs.ai), mission-control infrastructure for AI agent
 ## Links
 
 [aweblabs.ai](https://aweblabs.ai) · [danielwahnich.dev](https://danielwahnich.dev) · [LinkedIn](https://www.linkedin.com/in/daniel-wahnich-048326412)
-
