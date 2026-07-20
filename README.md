@@ -6,7 +6,7 @@ Founder, Aweb ~ independent researcher in runtime safety for autonomous systems.
 
 I build [Aweb](https://aweblabs.ai), mission-control infrastructure for AI agent workforces: agents do the work, a trust runtime governs it, and every action leaves a verifiable receipt. In parallel I do independent research on closed-loop safety evaluation of autonomous driving planners. Both run on the same process: pre-registered experiments, published nulls, and results that regenerate from committed evidence.
 
-I also build [Odeya](https://odeya.danielwahnich.dev), a research engine that turns a thesis into a governed, replayable chain from question to evidence to warranted claim: models propose, a deterministic kernel governs, and nothing counts as a result until its gate accepts it. Today it is architecture — contracts, schemas, and adversarial fixtures where every gate carries a known-bad proof that it fires. No engine runs yet, and that is the status rather than a caveat.
+I also build [Odeya](https://odeya.danielwahnich.dev), a research engine that turns a thesis into a governed, replayable chain from question to evidence to warranted claim: models propose, a deterministic kernel governs, and nothing counts as a result until its gate accepts it. Today it is architecture ~ contracts, schemas, and adversarial fixtures where every gate carries a known-bad proof that it fires. No engine runs yet, and that is the status rather than a caveat.
 
 ## Selected work
 
