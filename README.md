@@ -20,4 +20,4 @@ I also build [Odeya](https://odeya.danielwahnich.dev), a research engine that tu
 
 ## Links
 
-[danielwahnich.dev](https://danielwahnich.dev) · [aweblabs.ai](https://aweblabs.ai) · [Odeya](https://odeya.danielwahnich.dev) · [Sentinel](https://sentinel.danielwahnich.dev) · [Telos](https://telos.danielwahnich.dev) · [LinkedIn](https://www.linkedin.com/in/daniel-wahnich-048326412)
+[danielwahnich.dev](https://danielwahnich.dev) · [aweblabs.ai](https://aweblabs.ai) · [Odeya](https://odeya.danielwahnich.dev) · [Sentinel](https://sentinel.danielwahnich.dev) · [Telos](https://telos.danielwahnich.dev) · [Inbar](https://inbar.danielwahnich.dev) · [LinkedIn](https://www.linkedin.com/in/daniel-wahnich-048326412)
