@@ -4,7 +4,7 @@
 
 AI systems engineer. Founder of [Aweb](https://aweblabs.ai).
 
-I build AI systems and study how to check their work. The repositories below contain the methods, evidence, and limits of that work.
+I build AI systems and study how to check their work.
 
 ## Selected work
 
