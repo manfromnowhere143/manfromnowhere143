@@ -6,6 +6,8 @@ AI systems engineer. Founder of [Aweb](https://aweblabs.ai).
 
 I build AI systems and study how to check their work.
 
+<br clear="right">
+
 ## Selected work
 
 **Telos** · [Repository](https://github.com/manfromnowhere143/telos) · [Interface](https://telos.danielwahnich.dev)<br>
