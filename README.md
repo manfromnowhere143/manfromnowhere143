@@ -25,6 +25,9 @@ Architecture for a research engine that separates proposals, evidence, and verif
 **Reiyah** · [Repository](https://github.com/manfromnowhere143/reiyah) · [Interface](https://reiyah.danielwahnich.dev)<br>
 An offline research engine for comparing perception systems under uncertain reference evidence. It computes decision bounds and checks the accompanying certificates.
 
+**Nisayon** · [Repository](https://github.com/manfromnowhere143/nisayon) · [Interface](https://nisayon.danielwahnich.dev)<br>
+An experiment engine for robot-policy integration, with fresh simulator confirmation and retained failures. Development comparisons have not demonstrated a decision or efficiency advantage.
+
 ## Elsewhere
 
 [Website](https://danielwahnich.dev) · [Aweb](https://aweblabs.ai) · [LinkedIn](https://www.linkedin.com/in/danielwahnich)
