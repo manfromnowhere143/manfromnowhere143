@@ -2,22 +2,27 @@
 
 <img src="daniel-portrait.jpg" align="right" width="150" alt="Daniel Wahnich">
 
-Founder, Aweb ~ independent researcher in runtime safety for autonomous systems.
+AI systems engineer. Founder of [Aweb](https://aweblabs.ai).
 
-I build [Aweb](https://aweblabs.ai), mission-control infrastructure for AI agent workforces: agents do the work, a trust runtime governs it, and every action leaves a verifiable receipt. In parallel I do independent research on closed-loop safety evaluation of autonomous driving planners. Both run on the same process: pre-registered experiments, published nulls, and results that regenerate from committed evidence.
-
-I also build [Odeya](https://odeya.danielwahnich.dev), a research engine that turns a thesis into a governed, replayable chain from question to evidence to warranted claim: models propose, a deterministic kernel governs, and nothing counts as a result until its gate accepts it. Today it is architecture ~ contracts, schemas, and adversarial fixtures where every gate carries a known-bad proof that it fires. No engine runs yet, and that is the status rather than a caveat.
+I build AI systems and study how to check their work.
 
 ## Selected work
 
-**[Sentinel](https://sentinel.danielwahnich.dev)** ~ runtime safety monitor for a frozen end-to-end driving planner, developed over 50 pre-registered iterations. Independently reproduces the NeuroNCAP UniAD baseline (2.12 vs the published 1.84, corroborated by DMAD's independent rerun) and lifts the monitored benchmark score to 2.91 (95% CI on the delta [+0.605, +0.928]), at a deployment cost statistically indistinguishable from zero. Stated with equal weight: the same frozen monitor, unretuned, buys no measurable benefit on a second closed-loop benchmark (HUGSIM), in both the general and the collision-dominant regime — that transfer null is published, and it bounds the result above to the benchmark it was measured on. Every number regenerates from committed evidence. Code and evidence: [GitHub](https://github.com/manfromnowhere143/sentinel). Paper: [preprint PDF](https://github.com/manfromnowhere143/sentinel/blob/master/docs/paper/paper.pdf).
+**Telos** · [Repository](https://github.com/manfromnowhere143/telos) · [Interface](https://telos.danielwahnich.dev)<br>
+Research on coding agents that pass their graded tests yet fail additional checks. Current evidence is limited to a fixed task cohort.
 
-**[Telos](https://telos.danielwahnich.dev)** ~ an evidence protocol and benchmark harness for a specific failure of autonomous coding agents: patches that the official SWE-bench Verified harness certifies *resolved* — they pass every graded test — yet are wrong on an input the graded tests never exercise, confirmed by two blind judges under a strict rule. Across five independently-trained frontier models spanning three providers (OpenAI, Anthropic, Google), every model produces such certified-yet-wrong patches under a neutral prompt, and the same graded-suite blind spots recur across different labs' models — evidence the gap is in the benchmark's coverage, not any one model. Stated with equal weight: the confirmed rate is not a population constant. Two independently-built fresh cohorts return zero, so the phenomenon concentrates in specific repositories and the pooled estimate is reported as a cohort-specific lower bound, not a frequency. Every number regenerates from committed evidence — pre-registered before data, execution-verified in pinned containers, nulls published at full weight. Code and evidence: [GitHub](https://github.com/manfromnowhere143/telos). Paper: [preprint PDF](https://github.com/manfromnowhere143/telos/blob/master/paper/telos.pdf). No leaderboard or broad ranking claim.
+**Inbar** · [Repository](https://github.com/manfromnowhere143/inbar) · [Interface](https://inbar.danielwahnich.dev)<br>
+Research on causal diagnosis through physical tests, competing explanations, and independent adjudication. The physical-evidence gate remains blocked.
 
-**[Inbar](https://inbar.danielwahnich.dev)** ~ a research program for physical causal evidence in autonomous fault diagnosis: can a system hold competing mechanism hypotheses including an explicit unknown, choose a preapproved safe test that discriminates them, and have the physical outcome adjudicated independently of whoever proposed the diagnosis? Stated up front because it is the status and not a caveat: no physical result exists. Iteration 000 returned BLOCKED_EVIDENCE on NASA ADAPT, 16 evidence-useful records on 1 hardware identity against a required 30 complete dossiers, and the public-source route is recorded as blocked rather than as an established negative, because a dated non-systematic screen cannot establish one. What exists so far is the instrument: authority separation as executable contracts, an append-only research ledger, a self-regenerating recovery handoff, and every corrected claim pinned as a tripwire so it cannot silently reappear. Nothing here regenerates a number yet. Everything here binds to committed bytes. Code and evidence: [GitHub](https://github.com/manfromnowhere143/inbar). No diagnosis, recovery, safety, transfer, product, or economic-value claim.
+**Sentinel** · [Repository](https://github.com/manfromnowhere143/sentinel) · [Interface](https://sentinel.danielwahnich.dev)<br>
+A monitor for frozen driving planners, evaluated in closed-loop simulation. Benchmark gains and the failed transfer are both published.
 
-**[PerceptionProof](https://github.com/manfromnowhere143/perceptionproof)** ~ do cheap label-free signals predict human-rated long-tail driving failure where open-loop metrics mis-rank closed-loop safety? A reproducible validity study with a published negative-results arc.
+**Odeya** · [Repository](https://github.com/manfromnowhere143/odeya) · [Interface](https://odeya.danielwahnich.dev)<br>
+Architecture for a research engine that separates proposals, evidence, and verification. Contracts and fixtures exist; the engine is not built.
 
-## Links
+**Reiyah** · [Repository](https://github.com/manfromnowhere143/reiyah) · [Interface](https://reiyah.danielwahnich.dev)<br>
+An offline research engine for comparing perception systems under uncertain reference evidence. It computes decision bounds and checks the accompanying certificates.
 
-[danielwahnich.dev](https://danielwahnich.dev) · [aweblabs.ai](https://aweblabs.ai) · [Odeya](https://odeya.danielwahnich.dev) · [Sentinel](https://sentinel.danielwahnich.dev) · [Telos](https://telos.danielwahnich.dev) · [Inbar](https://inbar.danielwahnich.dev) · [LinkedIn](https://www.linkedin.com/in/daniel-wahnich-048326412)
+## Elsewhere
+
+[Website](https://danielwahnich.dev) · [Aweb](https://aweblabs.ai) · [LinkedIn](https://www.linkedin.com/in/danielwahnich)
