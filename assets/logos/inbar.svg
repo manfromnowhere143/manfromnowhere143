@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Inbar">
+<rect width="1024" height="1024" fill="#f4f1e8" />
+  <circle cx="512" cy="512" r="434" fill="#fbf9f2" />
+  <circle cx="512" cy="512" r="452" fill="none" stroke="#131313" stroke-width="56" />
+  <circle cx="512" cy="512" r="330" fill="none" stroke="#161616" stroke-width="12" />
+  <circle cx="512" cy="512" r="220" fill="none" stroke="#d4d0c4" stroke-width="12" />
+  <circle cx="512" cy="512" r="112" fill="none" stroke="#161616" stroke-width="12" />
+  <line x1="512" y1="144" x2="512" y2="205" stroke="#161616" stroke-width="22" stroke-linecap="round" transform="rotate(0 512 512)" />
+  <line x1="512" y1="144" x2="512" y2="205" stroke="#161616" stroke-width="22" stroke-linecap="round" transform="rotate(22.5 512 512)" />
+  <line x1="512" y1="144" x2="512" y2="205" stroke="#161616" stroke-width="22" stroke-linecap="round" transform="rotate(45 512 512)" />
+  <line x1="512" y1="144" x2="512" y2="205" stroke="#161616" stroke-width="22" stroke-linecap="round" transform="rotate(67.5 512 512)" />
+  <line x1="512" y1="144" x2="512" y2="205" stroke="#161616" stroke-width="22" stroke-linecap="round" transform="rotate(90 512 512)" />
+  <line x1="512" y1="144" x2="512" y2="205" stroke="#161616" stroke-width="22" stroke-linecap="round" transform="rotate(112.5 512 512)" />
+  <line x1="512" y1="144" x2="512" y2="205" stroke="#161616" stroke-width="22" stroke-linecap="round" transform="rotate(135 512 512)" />
+  <line x1="512" y1="144" x2="512" y2="205" stroke="#161616" stroke-width="22" stroke-linecap="round" transform="rotate(157.5 512 512)" />
+  <line x1="512" y1="144" x2="512" y2="205" stroke="#161616" stroke-width="22" stroke-linecap="round" transform="rotate(180 512 512)" />
+  <line x1="512" y1="144" x2="512" y2="205" stroke="#161616" stroke-width="22" stroke-linecap="round" transform="rotate(202.5 512 512)" />
+  <line x1="512" y1="144" x2="512" y2="205" stroke="#161616" stroke-width="22" stroke-linecap="round" transform="rotate(225 512 512)" />
+  <line x1="512" y1="144" x2="512" y2="205" stroke="#161616" stroke-width="22" stroke-linecap="round" transform="rotate(247.5 512 512)" />
+  <line x1="512" y1="144" x2="512" y2="205" stroke="#161616" stroke-width="22" stroke-linecap="round" transform="rotate(270 512 512)" />
+  <line x1="512" y1="144" x2="512" y2="205" stroke="#161616" stroke-width="22" stroke-linecap="round" transform="rotate(292.5 512 512)" />
+  <line x1="512" y1="144" x2="512" y2="205" stroke="#161616" stroke-width="22" stroke-linecap="round" transform="rotate(315 512 512)" />
+  <line x1="512" y1="144" x2="512" y2="205" stroke="#161616" stroke-width="22" stroke-linecap="round" transform="rotate(337.5 512 512)" />
+  <circle cx="512" cy="292" r="22" fill="#161616" stroke="#161616" stroke-width="12" transform="rotate(0 512 512)" />
+  <circle cx="512" cy="292" r="22" fill="#fbf9f2" stroke="#161616" stroke-width="12" transform="rotate(60 512 512)" />
+  <circle cx="512" cy="292" r="22" fill="#fbf9f2" stroke="#161616" stroke-width="12" transform="rotate(120 512 512)" />
+  <circle cx="512" cy="292" r="22" fill="#fbf9f2" stroke="#161616" stroke-width="12" transform="rotate(180 512 512)" />
+  <circle cx="512" cy="292" r="22" fill="#fbf9f2" stroke="#161616" stroke-width="12" transform="rotate(240 512 512)" />
+  <circle cx="512" cy="292" r="22" fill="#fbf9f2" stroke="#161616" stroke-width="12" transform="rotate(300 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(0 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(12 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(24 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(36 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(48 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(60 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(72 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(84 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(96 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(108 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(120 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(132 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(144 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(156 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(168 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(180 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(192 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(204 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(216 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(228 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(240 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(252 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(264 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(276 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(288 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(300 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(312 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(324 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(336 512 512)" />
+  <circle cx="512" cy="400" r="8" fill="#fbf9f2" stroke="#161616" stroke-width="5" transform="rotate(348 512 512)" />
+</svg>

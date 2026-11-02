@@ -1,0 +1,58 @@
+[
+  {
+    "project": "nisayon",
+    "file": "nisayon.svg",
+    "source": "https://nisayon.danielwahnich.dev/favicon.svg",
+    "retrieved": "2026-11-02",
+    "sha256": "8cf413b12e8952912f1718cff71d7ff2632609725ebc35cb65cfa367db00d09d",
+    "modifications": "none"
+  },
+  {
+    "project": "telos",
+    "file": "telos.svg",
+    "source": "https://telos.danielwahnich.dev/icon.svg",
+    "retrieved": "2026-11-02",
+    "sha256": "19b0c281b4511ca55a538baf6913d66287ea23fa9fbb9ea250285564e55053ea",
+    "modifications": "none"
+  },
+  {
+    "project": "inbar",
+    "file": "inbar.svg",
+    "source": "https://inbar.danielwahnich.dev/icon.svg",
+    "retrieved": "2026-11-02",
+    "sha256": "02168aaf81a2f9f683967e25d2a59124bfd640fafb4dc35b0983b1273c783be1",
+    "modifications": "none"
+  },
+  {
+    "project": "sentinel",
+    "file": "sentinel.svg",
+    "source": "https://sentinel.danielwahnich.dev/icon.svg",
+    "retrieved": "2026-11-02",
+    "sha256": "c56a5d5ebe27e0e0656ae0ac4a030dd63a7da32f0a1bc08903778c83c1c719fa",
+    "modifications": "none"
+  },
+  {
+    "project": "odeya",
+    "file": "odeya.svg",
+    "source": "https://odeya.danielwahnich.dev/icon.svg",
+    "retrieved": "2026-11-02",
+    "sha256": "7c1de364c41b7cd099d7d850a05b7cf98b1ca0752440ebaad2b80b71f35bcda4",
+    "modifications": "none"
+  },
+  {
+    "project": "reiyah",
+    "file": "reiyah.svg",
+    "source": "https://reiyah.danielwahnich.dev/favicon.svg",
+    "retrieved": "2026-11-02",
+    "sha256": "71c07f86d65e364df396495106d4f16e897ed5768e75b8a962114652855cf4a4",
+    "modifications": "none"
+  },
+  {
+    "project": "aweb",
+    "file": "aweb.svg",
+    "source": "https://aweblabs.ai/favicon.svg",
+    "retrieved": "2026-11-02",
+    "sha256": "595e5c5456e8d8c0708d052406b989720f322b78f7824f1a35173228ecdb8991",
+    "modifications": "none"
+  }
+]

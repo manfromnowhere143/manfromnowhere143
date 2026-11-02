@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Telos">
+<rect width="1024" height="1024" fill="#f4f1e8" />
+  <circle cx="512" cy="512" r="434" fill="#fbf9f2" />
+  <circle cx="512" cy="512" r="452" fill="none" stroke="#131313" stroke-width="56" />
+  <circle cx="512" cy="512" r="404" fill="none" stroke="#ddd9cc" stroke-width="10" />
+  <circle cx="512" cy="530" r="190" fill="none" stroke="#dcd8cb" stroke-width="12" />
+  <path d="M512 340 A190 190 0 1 0 676.5 435" fill="none" stroke="#161616" stroke-width="34" stroke-linecap="round" />
+  <g fill="#161616">
+    <circle cx="512" cy="340" r="22" />
+    <circle cx="676.5" cy="435" r="48" />
+  </g>
+  <circle cx="662" cy="421" r="12" fill="#fff" opacity="0.75" />
+  <path d="M352 810 H672" stroke="#dedacd" stroke-width="22" stroke-linecap="round" />
+</svg>
