@@ -1,12 +1,8 @@
 # Daniel Wahnich
 
-<img src="daniel-portrait.jpg" align="right" width="150" alt="Daniel Wahnich">
-
 AI systems engineer. Building [Nisayon](https://github.com/manfromnowhere143/nisayon).
 
 I study how to diagnose failures, test corrections, and decide what the evidence supports.
-
-<br clear="right">
 
 ## Selected work
 
